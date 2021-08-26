@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niklasbaier
 - 👀 I’m interested in Artificial Intelligence and its forms of learning (ML / DL / RL), as well as Algorithmic Trading
-- 🌱 I’m currently learning about ML
+- 🌱 I’m currently learning about Python
 - 📫 How to reach me: niklas.baier@yahoo.de
 
 <!---
