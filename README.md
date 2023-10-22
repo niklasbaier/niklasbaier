@@ -7,3 +7,5 @@
 niklasbaier/niklasbaier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
