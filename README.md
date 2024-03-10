@@ -11,6 +11,7 @@ I have studied a combination of Quantitative Finance & Computer Science at the T
 
 ### 📚 Learning
 ![Currently practising coding katas on Codewars](https://www.codewars.com/users/niklasbaier/badges/small)
+
 I'm currently studying about MLOps / LLMOps and how to effectively utilize technologies such as Docker, CI/CD pipelines, Metaflow and MLflow to build fullstack AI applications.
 
 ### 📞 Get in contact
