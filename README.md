@@ -7,10 +7,10 @@ I'm Niklas, an Associate ML Engineer. This is my personal repository containing 
 My focus lies on Python, with some SQL mixed in. I have gathered some front-end experience in Python with Streamlit.
 
 ### 🎓 Academia
-I have studied a combination of Quantitative Finance & Computer Science at the Technical University of Munich (TUM).
+I have studied a combination of Quantitative Finance & Computer Science at the Technical University of Munich (TUM). My master's thesis leveraged different Machine Learning models to forecast Corporate Earnings up to three years into the future, derive firms' implied cost of capital esimates from these forecasts, and finally formulate investment strategies that outperformed those based on financial analysts' earnings estimates.
 
 ### 📚 Learning
-![Currently practising coding katas on Codewars](https://www.codewars.com/users/niklasbaier/badges/small)
+![](https://www.codewars.com/users/niklasbaier/badges/small)
 
 I'm currently studying about MLOps / LLMOps and how to effectively utilize technologies such as Docker, CI/CD pipelines, Metaflow and MLflow to build fullstack AI applications.
 
