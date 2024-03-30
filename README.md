@@ -14,5 +14,5 @@ I have studied a combination of Quantitative Finance & Computer Science at the T
 
 I'm currently studying about MLOps / LLMOps and how to effectively utilize technologies such as Docker, CI/CD pipelines, Metaflow and MLflow to build fullstack AI applications.
 
-### 📞 Get in contact
+### 📞 Socials
 Find me on [LinkedIn](https://www.linkedin.com/in/niklasbaier/) and on [Medium](https://medium.com/@niklas.baier).
