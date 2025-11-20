@@ -1,5 +1,7 @@
-### Hi there 👋
-I'm Niklas, an Associate ML Engineer. This is my personal repository containing some small side projects of mine. I'm passionate about building end-to-end AI applications.
+### 👋 Hi, I'm Niklas,
+an ML / AI Engineer based in Munich with a passion for building intelligent systems end-to-end and at scale.
+
+Currently, I’m part of the AI Engineering team at one of the biggest streaming & entertainment players in the German-speaking region of Europe, developing and scaling a langgraph-based RAG agent for content discovery serving millions of users.
 
 ### 🤖 Techstack
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-SQL-4169E1?logo=postgresql&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/fastapi-109989?logo=FASTAPI&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=white&style=flat"/>
