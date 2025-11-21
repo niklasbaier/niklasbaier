@@ -46,10 +46,5 @@ Currently, I’m part of the AI Engineering team at one of the biggest streaming
 ### 🎓 Academia
 I have studied a combination of Quantitative Finance & Computer Science at the Technical University of Munich (TUM). My master's thesis leveraged different Machine Learning models to forecast Corporate Earnings up to three years into the future, derive firms' implied cost of capital estimates from these forecasts, and finally formulate investment strategies that outperformed those based on financial analysts' earnings estimates.
 
-### 📚 Learning
-![](https://www.codewars.com/users/niklasbaier/badges/small)
-
-I'm currently studying about MLOps / LLMOps and how to effectively utilize technologies such as Docker, CI/CD pipelines, Metaflow and MLflow to build fullstack AI applications.
-
 ### 📞 Socials
-Find me on [LinkedIn](https://www.linkedin.com/in/niklasbaier/) and on [Medium](https://medium.com/@niklas.baier).
+Find me on [LinkedIn](https://www.linkedin.com/in/niklasbaier/) and on my [Dev Blog](https://niklasbaier.gitlab.io/).
