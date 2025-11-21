@@ -5,6 +5,7 @@ Currently, I’m part of the AI Engineering team at one of the biggest streaming
 
 ### 🤖 Techstack
 **Frameworks**
+
 <span>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/> 
   <img src="https://img.shields.io/badge/fastapi-109989?logo=FASTAPI&logoColor=white&style=flat"/> 
@@ -15,6 +16,7 @@ Currently, I’m part of the AI Engineering team at one of the biggest streaming
 </span>
 
 **Infrastructure**
+
 <span>
   <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white&style=flat"/> 
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat"/> 
@@ -25,6 +27,7 @@ Currently, I’m part of the AI Engineering team at one of the biggest streaming
 </span>
 
 **Data Science**
+
 <span>
 <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=flat"/> 
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat"/> 
@@ -33,6 +36,7 @@ Currently, I’m part of the AI Engineering team at one of the biggest streaming
 </span>
 
 **Tools**
+
 <span>
 <img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term&logoColor=white&style=flat"/> 
 <img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF&style=flat"/> 
