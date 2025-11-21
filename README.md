@@ -6,12 +6,14 @@ Currently, I’m part of the AI Engineering team at one of the biggest streaming
 ### 🤖 Techstack
 **Frameworks**
 
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/> 
-<img src="https://img.shields.io/badge/fastapi-109989?logo=FASTAPI&logoColor=white&style=flat"/> 
-<img src="https://img.shields.io/badge/LangChain-1c3c3c?logo=langchain&logoColor=white&style=flat"/> 
-<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white&style=flat"/>
-<img src="https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000&style=flat"/>
+<span>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/> 
+  <img src="https://img.shields.io/badge/fastapi-109989?logo=FASTAPI&logoColor=white&style=flat"/> 
+  <img src="https://img.shields.io/badge/LangChain-1c3c3c?logo=langchain&logoColor=white&style=flat"/> 
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000&style=flat"/>
+</span>
 
 **Infrastructure**
 
