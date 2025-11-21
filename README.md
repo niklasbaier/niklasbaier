@@ -26,17 +26,17 @@ Currently, I’m part of the AI Engineering team at one of the biggest streaming
 
 #### Data Science
 <span>
-<img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=flat"/> 
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat"/> 
-<img src="https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black&style=flat"/>
-<img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=flat"/> 
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat"/> 
+  <img src="https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black&style=flat"/>
+  <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white&style=flat"/>
 </span>
 
 #### Tools
 <span>
-<img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term&logoColor=white&style=flat"/> 
-<img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF&style=flat"/> 
-<img src="https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=white&style=flat&style=flat"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term&logoColor=white&style=flat"/> 
+  <img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF&style=flat"/> 
+  <img src="https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=white&style=flat&style=flat"/>
 </span>
 
 ### 🎓 Academia
